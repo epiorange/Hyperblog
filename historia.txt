@@ -1,5 +1,15 @@
 Esta es la historia de Epi Cardenas
 
-Epi Cardenas tiene 30 años y nacio en Bogota colombia 
+Epi Cardenas tiene 30 años y nacio en Bogota colombia vive en Russia  
 
+hoy hablaremos de su historia 
+
+
+mañana hablaremos de su vida laboral
+
+
+
+<<<<<<< HEAD
 hoy hablaresmo de su vida y obra maestra 
+=======
+>>>>>>> cabecera
